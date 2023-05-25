@@ -31,3 +31,5 @@ class Statisztika {
         return atlag / db;
     }
 }
+
+export default Statisztika
